@@ -18,9 +18,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit].
+> As a sports enthusiast of the NFL, we want to analyze football data, so we can determine who was the best quarterback in 2023.  <br> 
+> I want to determine what quarterback had the most passing yards, scrambling yards, and highest completion percentage in the whole season. <br> 
+> so that I can show the user who was the best quarterback in the 2023 NFL season based on different statistics. .
 
 ## Dataset 
 
@@ -28,10 +28,14 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://docs.google.com/spreadsheets/d/1jAQyQnfQs1f0NMfI29qctQPpMdC1tA_b5wZLsvYK6JA/edit?gid=0#gid=0
+
+- **Player Name** (String) - Name of the player. 
+- **Team** (String) - Name of the team
+- **Plays** (int) - Amount of plays ran
+**Comp %** (double) - Total completion percentage of the season
+**Passing Yards** (int) - Amount of total passing yards in the season
+**Scrambling Yards** (int) - Amount of total scrambling yards in the season
 
 ## UML Diagram 
 
