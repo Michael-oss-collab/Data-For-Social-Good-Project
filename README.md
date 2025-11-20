@@ -33,16 +33,16 @@ Dataset: https://docs.google.com/spreadsheets/d/1jAQyQnfQs1f0NMfI29qctQPpMdC1tA_
 - **Player Name** (String) - Name of the player. 
 - **Team** (String) - Name of the team
 - **Plays** (int) - Amount of plays ran
-**Comp %** (double) - Total completion percentage of the season
-**Passing Yards** (int) - Amount of total passing yards in the season
-**Scrambling Yards** (int) - Amount of total scrambling yards in the season
+- **Comp %** (double) - Total completion percentage of the season
+- **Passing Yards** (int) - Amount of total passing yards in the season
+- **Scrambling Yards** (int) - Amount of total scrambling yards in the season
 
 ## UML Diagram 
 
-Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project](UMLdiagram.png) 
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+My data for social good project is based on NFL data in the 2023 season. First, we used our user story to begin and brainstorm our idea for our project. We found a dataset and began to create txt files on our code.org for the data we were going to use. Our project addressed the users goals because the questions we aimed to answer were what quarterback in the 2023 season had the most passing yards, most scrambling yards, and highest completion percentage. All of these questions were answered using our dataset. 
